@@ -33,6 +33,7 @@ pipeline {
                 sh 'gradle run'
             }
         }
+    }
 
         
 
@@ -45,3 +46,4 @@ pipeline {
         }
     }
     }
+    
